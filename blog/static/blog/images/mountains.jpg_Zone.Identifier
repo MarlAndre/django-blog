@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/academind/django-practical-guide-course-code/blob/prj-urls-views-templates-04-adding-images/blog/static/blog/images/mountains.jpg
+HostUrl=https://raw.githubusercontent.com/academind/django-practical-guide-course-code/prj-urls-views-templates-04-adding-images/blog/static/blog/images/mountains.jpg
